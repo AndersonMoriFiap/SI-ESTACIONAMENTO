@@ -1,2 +1,2 @@
 # Guardar nesta pasta apenas documento de engenharia de software
-# exemplo: Astah, Datamodeler, Bizagi, etc.
+# exemplo: Astah, Datamodeler, Bizag.
